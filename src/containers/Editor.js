@@ -19,9 +19,9 @@ class Editor extends Component {
 
         return (
             <div>
-                <div className="container">
+                {/*<div className="container">
                     <Link to="/how">How</Link>
-                </div>
+                </div>*/}
                 <div className="container">
 
                     <Col xs={12} sm={6}>

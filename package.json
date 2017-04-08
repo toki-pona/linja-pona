@@ -32,6 +32,7 @@
         "build": "react-scripts build",
         "test": "react-scripts test --env=jsdom",
         "eject": "react-scripts eject",
-        "make": "babel-node ./src/linja-pona/parse.js"
+        "make": "babel-node ./src/linja-pona/parse.js",
+        "deploy": "now -n linja-pona build/"
     }
 }
