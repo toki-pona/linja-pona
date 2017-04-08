@@ -9,3 +9,8 @@ it('parses compound words', () => {
     const chars = stringToLP('sitelen-ma li lili');
     expect(chars).toEqual('\uf012 \ue627 \ue628');
 });
+
+it('parses concatenated native words like foreign words', () => {
+    const chars = stringToLP('ijopona');
+    expect(chars).toEqual('ijopona');
+});

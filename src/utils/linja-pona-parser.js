@@ -5,7 +5,14 @@ const matchWord = text => {
 };
 
 const matchGlyph = text => {
-    return dict.find(({ key, code }) => text.startsWith(key));
+    return dict.find(({ key, code }) => {
+        const isGlyphAtStart = text.startsWith(key);
+        if(!isGlyphAtStart) {
+            return false;
+        }
+        const nextChar = text.charAt(key.length);
+        return nextChar.length === 0 || !nextChar.match(/[a-z\-]/);
+    });
 };
 
 const stringToLP = text => {
