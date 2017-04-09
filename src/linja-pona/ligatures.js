@@ -8,6 +8,14 @@ module.exports = [
     "code": 61444
   },
   {
+    "key": "pilin-pakala",
+    "code": 59542
+  },
+  {
+    "key": "kiwen-pimeja",
+    "code": 61495
+  },
+  {
     "key": "sitelen-toki",
     "code": 61460
   },
@@ -20,16 +28,32 @@ module.exports = [
     "code": 61443
   },
   {
-    "key": "kiwen-pimeja",
-    "code": 61495
-  },
-  {
     "key": "sitelen-tawa",
     "code": 59669
   },
   {
-    "key": "pilin-pakala",
-    "code": 59542
+    "key": "selo-soweli",
+    "code": 59716
+  },
+  {
+    "key": "ijo-sitelen",
+    "code": 61847
+  },
+  {
+    "key": "kili-pimeja",
+    "code": 59412
+  },
+  {
+    "key": "sitelen-ike",
+    "code": 61456
+  },
+  {
+    "key": "kili-palisa",
+    "code": 59410
+  },
+  {
+    "key": "kalama-musi",
+    "code": 59395
   },
   {
     "key": "jan-monsuta",
@@ -40,28 +64,64 @@ module.exports = [
     "code": 61441
   },
   {
-    "key": "sona-sijelo",
-    "code": 59683
-  },
-  {
-    "key": "sitelen-ike",
-    "code": 61456
-  },
-  {
-    "key": "kili-pimeja",
-    "code": 59412
-  },
-  {
     "key": "palisa-lili",
     "code": 59536
   },
   {
-    "key": "kalama-musi",
-    "code": 59395
+    "key": "sona-sijelo",
+    "code": 59683
   },
   {
-    "key": "kili-palisa",
-    "code": 59410
+    "key": "sona-nanpa",
+    "code": 59681
+  },
+  {
+    "key": "pilin-pona",
+    "code": 59543
+  },
+  {
+    "key": "ijo-kalama",
+    "code": 61730
+  },
+  {
+    "key": "pilin-sama",
+    "code": 59544
+  },
+  {
+    "key": "lupa-kiwen",
+    "code": 59476
+  },
+  {
+    "key": "pona-lukin",
+    "code": 61542
+  },
+  {
+    "key": "ijo-soweli",
+    "code": 61849
+  },
+  {
+    "key": "lipu-nanpa",
+    "code": 59463
+  },
+  {
+    "key": "kiwen-walo",
+    "code": 61497
+  },
+  {
+    "key": "kiwen-suno",
+    "code": 61496
+  },
+  {
+    "key": "ijo-sinpin",
+    "code": 61846
+  },
+  {
+    "key": "jan-pakala",
+    "code": 59235
+  },
+  {
+    "key": "kiwen-loje",
+    "code": 61493
   },
   {
     "key": "kiwen-lili",
@@ -76,80 +136,28 @@ module.exports = [
     "code": 61490
   },
   {
-    "key": "tomo-utala",
-    "code": 59765
+    "key": "ijo-sijelo",
+    "code": 61842
   },
   {
-    "key": "tomo-nasin",
-    "code": 59752
-  },
-  {
-    "key": "toki-utala",
-    "code": 59746
-  },
-  {
-    "key": "jan-pakala",
-    "code": 59235
-  },
-  {
-    "key": "supa-monsi",
-    "code": 59720
-  },
-  {
-    "key": "sona-utala",
-    "code": 59696
-  },
-  {
-    "key": "sona-tenpo",
-    "code": 59685
-  },
-  {
-    "key": "jan-kulupu",
-    "code": 59223
-  },
-  {
-    "key": "sona-nanpa",
-    "code": 59681
-  },
-  {
-    "key": "kiwen-walo",
-    "code": 61497
-  },
-  {
-    "key": "ilo-kipisi",
-    "code": 59161
-  },
-  {
-    "key": "pilin-sama",
-    "code": 59544
-  },
-  {
-    "key": "pilin-pona",
-    "code": 59543
+    "key": "ijo-pimeja",
+    "code": 61824
   },
   {
     "key": "sitelen-ma",
     "code": 61458
   },
   {
-    "key": "pilin-nasa",
-    "code": 59541
+    "key": "ijo-kipisi",
+    "code": 61986
   },
   {
-    "key": "kiwen-suno",
-    "code": 61496
+    "key": "ijo-palisa",
+    "code": 61813
   },
   {
-    "key": "lupa-monsi",
-    "code": 59480
-  },
-  {
-    "key": "lupa-kiwen",
-    "code": 59476
-  },
-  {
-    "key": "lipu-nanpa",
-    "code": 59463
+    "key": "ijo-pakala",
+    "code": 61811
   },
   {
     "key": "linja-pona",
@@ -160,240 +168,72 @@ module.exports = [
     "code": 59458
   },
   {
-    "key": "pona-lukin",
-    "code": 61542
-  },
-  {
     "key": "len-pimeja",
     "code": 59449
   },
   {
-    "key": "kiwen-loje",
-    "code": 61493
+    "key": "tomo-utala",
+    "code": 59765
+  },
+  {
+    "key": "jan-kulupu",
+    "code": 59223
   },
   {
     "key": "jan-kalama",
     "code": 59222
   },
   {
-    "key": "tomo-sona",
-    "code": 59762
+    "key": "ilo-kipisi",
+    "code": 59161
   },
   {
-    "key": "tomo-pali",
-    "code": 59753
+    "key": "pilin-nasa",
+    "code": 59541
   },
   {
-    "key": "sona-pona",
-    "code": 59682
+    "key": "tomo-nasin",
+    "code": 59752
   },
   {
-    "key": "kiwen-mun",
-    "code": 61494
+    "key": "ijo-namako",
+    "code": 61989
   },
   {
-    "key": "ilo-lukin",
-    "code": 59174
+    "key": "lupa-monsi",
+    "code": 59480
   },
   {
-    "key": "sona-lili",
-    "code": 59672
+    "key": "sona-tenpo",
+    "code": 59685
   },
   {
-    "key": "ilo-nanpa",
-    "code": 59170
+    "key": "toki-utala",
+    "code": 59746
   },
   {
-    "key": "tomo-moku",
-    "code": 59751
+    "key": "sona-utala",
+    "code": 59696
   },
   {
-    "key": "sike-lili",
-    "code": 59667
+    "key": "ijo-kulupu",
+    "code": 61746
   },
   {
-    "key": "tomo-mani",
-    "code": 59750
+    "key": "supa-monsi",
+    "code": 59720
   },
   {
-    "key": "poki-lili",
-    "code": 59657
+    "key": "kili-walo",
+    "code": 59413
   },
   {
-    "key": "poki-telo",
-    "code": 59656
-  },
-  {
-    "key": "poki-seli",
-    "code": 59655
-  },
-  {
-    "key": "poki-lete",
-    "code": 59654
-  },
-  {
-    "key": "anpa-lawa",
-    "code": 59136
-  },
-  {
-    "key": "tomo-lape",
-    "code": 59749
-  },
-  {
-    "key": "meli-lili",
-    "code": 59504
-  },
-  {
-    "key": "toki-sona",
-    "code": 59745
-  },
-  {
-    "key": "ike-lukin",
-    "code": 61538
-  },
-  {
-    "key": "pilin-ike",
-    "code": 59540
-  },
-  {
-    "key": "pilin-ala",
-    "code": 59539
-  },
-  {
-    "key": "telo-lili",
-    "code": 59734
-  },
-  {
-    "key": "nena-meli",
-    "code": 59524
-  },
-  {
-    "key": "nena-mama",
-    "code": 59523
-  },
-  {
-    "key": "nena-lili",
-    "code": 59522
-  },
-  {
-    "key": "nena-kute",
-    "code": 59521
-  },
-  {
-    "key": "jan-utala",
-    "code": 59254
-  },
-  {
-    "key": "musi-lili",
-    "code": 59513
-  },
-  {
-    "key": "mije-wawa",
-    "code": 59512
-  },
-  {
-    "key": "mije-unpa",
-    "code": 59511
-  },
-  {
-    "key": "mije-sama",
-    "code": 59510
-  },
-  {
-    "key": "mije-lili",
-    "code": 59509
-  },
-  {
-    "key": "mije-pona",
-    "code": 59508
-  },
-  {
-    "key": "kala-lili",
-    "code": 59392
-  },
-  {
-    "key": "meli-unpa",
-    "code": 59506
-  },
-  {
-    "key": "meli-sama",
-    "code": 59505
-  },
-  {
-    "key": "pona-lili",
-    "code": 61541
-  },
-  {
-    "key": "meli-pona",
-    "code": 59497
-  },
-  {
-    "key": "kala-lete",
-    "code": 59393
-  },
-  {
-    "key": "mama-mije",
-    "code": 59495
-  },
-  {
-    "key": "mama-meli",
-    "code": 59494
-  },
-  {
-    "key": "mama-mama",
-    "code": 59493
-  },
-  {
-    "key": "lupa-lili",
-    "code": 59488
-  },
-  {
-    "key": "lupa-nena",
-    "code": 59481
+    "key": "supa-lupa",
+    "code": 59728
   },
   {
     "key": "telo-lete",
     "code": 59733
-  },
-  {
-    "key": "lupa-meli",
-    "code": 59479
-  },
-  {
-    "key": "lupa-kute",
-    "code": 59478
-  },
-  {
-    "key": "lupa-jaki",
-    "code": 59477
-  },
-  {
-    "key": "supa-pali",
-    "code": 59721
-  },
-  {
-    "key": "luka-luka",
-    "code": 59472
-  },
-  {
-    "key": "lipu-sewi",
-    "code": 59464
-  },
-  {
-    "key": "tomo-unpa",
-    "code": 59764
-  },
-  {
-    "key": "lipu-sona",
-    "code": 59462
-  },
-  {
-    "key": "lipu-toki",
-    "code": 59461
-  },
-  {
-    "key": "lipu-kasi",
-    "code": 59460
   },
   {
     "key": "supa-moku",
@@ -408,8 +248,108 @@ module.exports = [
     "code": 59717
   },
   {
+    "key": "telo-lili",
+    "code": 59734
+  },
+  {
+    "key": "toki-sona",
+    "code": 59745
+  },
+  {
+    "key": "sona-toki",
+    "code": 59686
+  },
+  {
+    "key": "tomo-lape",
+    "code": 59749
+  },
+  {
+    "key": "tomo-mani",
+    "code": 59750
+  },
+  {
+    "key": "sona-pona",
+    "code": 59682
+  },
+  {
+    "key": "tomo-moku",
+    "code": 59751
+  },
+  {
+    "key": "sona-lili",
+    "code": 59672
+  },
+  {
+    "key": "anpa-lawa",
+    "code": 59136
+  },
+  {
+    "key": "tomo-pali",
+    "code": 59753
+  },
+  {
+    "key": "tomo-sona",
+    "code": 59762
+  },
+  {
+    "key": "ilo-nanpa",
+    "code": 59170
+  },
+  {
+    "key": "ilo-lukin",
+    "code": 59174
+  },
+  {
+    "key": "sike-lili",
+    "code": 59667
+  },
+  {
     "key": "jan-alasa",
     "code": 59217
+  },
+  {
+    "key": "poki-lili",
+    "code": 59657
+  },
+  {
+    "key": "poki-telo",
+    "code": 59656
+  },
+  {
+    "key": "poki-seli",
+    "code": 59655
+  },
+  {
+    "key": "tomo-tawa",
+    "code": 59763
+  },
+  {
+    "key": "tomo-unpa",
+    "code": 59764
+  },
+  {
+    "key": "kiwen-mun",
+    "code": 61494
+  },
+  {
+    "key": "poki-lete",
+    "code": 59654
+  },
+  {
+    "key": "jan-utala",
+    "code": 59254
+  },
+  {
+    "key": "kala-lili",
+    "code": 59392
+  },
+  {
+    "key": "kala-lete",
+    "code": 59393
+  },
+  {
+    "key": "ike-lukin",
+    "code": 61538
   },
   {
     "key": "kasi-lili",
@@ -432,96 +372,216 @@ module.exports = [
     "code": 59409
   },
   {
-    "key": "tomo-tawa",
-    "code": 59763
+    "key": "pona-lili",
+    "code": 61541
   },
   {
     "key": "kili-suwi",
     "code": 59411
   },
   {
-    "key": "sona-toki",
-    "code": 59686
+    "key": "ijo-akesi",
+    "code": 61698
   },
   {
-    "key": "kili-walo",
-    "code": 59413
+    "key": "supa-pali",
+    "code": 59721
+  },
+  {
+    "key": "ijo-alasa",
+    "code": 61700
+  },
+  {
+    "key": "ijo-kiwen",
+    "code": 61736
+  },
+  {
+    "key": "ijo-linja",
+    "code": 61762
+  },
+  {
+    "key": "ijo-lukin",
+    "code": 61767
+  },
+  {
+    "key": "pilin-ike",
+    "code": 59540
+  },
+  {
+    "key": "ijo-monsi",
+    "code": 61783
+  },
+  {
+    "key": "pilin-ala",
+    "code": 59539
+  },
+  {
+    "key": "ijo-nanpa",
+    "code": 61794
+  },
+  {
+    "key": "ijo-nasin",
+    "code": 61796
+  },
+  {
+    "key": "lipu-kasi",
+    "code": 59460
+  },
+  {
+    "key": "lipu-toki",
+    "code": 59461
+  },
+  {
+    "key": "lipu-sona",
+    "code": 59462
+  },
+  {
+    "key": "ijo-pilin",
+    "code": 61817
+  },
+  {
+    "key": "lipu-sewi",
+    "code": 59464
+  },
+  {
+    "key": "luka-luka",
+    "code": 59472
+  },
+  {
+    "key": "ijo-tenpo",
+    "code": 61960
+  },
+  {
+    "key": "lupa-jaki",
+    "code": 59477
+  },
+  {
+    "key": "lupa-kute",
+    "code": 59478
+  },
+  {
+    "key": "lupa-meli",
+    "code": 59479
+  },
+  {
+    "key": "ijo-utala",
+    "code": 61972
+  },
+  {
+    "key": "lupa-nena",
+    "code": 59481
+  },
+  {
+    "key": "lupa-lili",
+    "code": 59488
+  },
+  {
+    "key": "lupa-tomo",
+    "code": 59490
+  },
+  {
+    "key": "mama-mama",
+    "code": 59493
+  },
+  {
+    "key": "mama-meli",
+    "code": 59494
+  },
+  {
+    "key": "mama-mije",
+    "code": 59495
+  },
+  {
+    "key": "meli-pona",
+    "code": 59497
+  },
+  {
+    "key": "meli-lili",
+    "code": 59504
+  },
+  {
+    "key": "meli-sama",
+    "code": 59505
+  },
+  {
+    "key": "meli-unpa",
+    "code": 59506
+  },
+  {
+    "key": "mije-pona",
+    "code": 59508
+  },
+  {
+    "key": "mije-lili",
+    "code": 59509
+  },
+  {
+    "key": "mije-sama",
+    "code": 59510
+  },
+  {
+    "key": "mije-unpa",
+    "code": 59511
+  },
+  {
+    "key": "mije-wawa",
+    "code": 59512
+  },
+  {
+    "key": "musi-lili",
+    "code": 59513
+  },
+  {
+    "key": "nena-kute",
+    "code": 59521
+  },
+  {
+    "key": "nena-lili",
+    "code": 59522
+  },
+  {
+    "key": "nena-mama",
+    "code": 59523
+  },
+  {
+    "key": "nena-meli",
+    "code": 59524
+  },
+  {
+    "key": "ijo-loje",
+    "code": 61764
+  },
+  {
+    "key": "ijo-lipu",
+    "code": 61763
+  },
+  {
+    "key": "ijo-taso",
+    "code": 61957
+  },
+  {
+    "key": "ijo-lete",
+    "code": 61753
+  },
+  {
+    "key": "ijo-lawa",
+    "code": 61751
+  },
+  {
+    "key": "sona-ike",
+    "code": 59673
+  },
+  {
+    "key": "ijo-laso",
+    "code": 61750
+  },
+  {
+    "key": "ijo-lape",
+    "code": 61749
   },
   {
     "key": "sona-ala",
     "code": 59671
-  },
-  {
-    "key": "kon-lete",
-    "code": 59440
-  },
-  {
-    "key": "len-laso",
-    "code": 59443
-  },
-  {
-    "key": "len-loje",
-    "code": 59444
-  },
-  {
-    "key": "len-lawa",
-    "code": 59446
-  },
-  {
-    "key": "len-luka",
-    "code": 59447
-  },
-  {
-    "key": "tokipona",
-    "code": 59000
-  },
-  {
-    "key": "len-noka",
-    "code": 59448
-  },
-  {
-    "key": "len-walo",
-    "code": 59456
-  },
-  {
-    "key": "meli-ike",
-    "code": 59496
-  },
-  {
-    "key": "mije-ike",
-    "code": 59507
-  },
-  {
-    "key": "jan-ante",
-    "code": 59256
-  },
-  {
-    "key": "jan-wawa",
-    "code": 59255
-  },
-  {
-    "key": "nena-kon",
-    "code": 59520
-  },
-  {
-    "key": "jan-unpa",
-    "code": 59253
-  },
-  {
-    "key": "jan-toki",
-    "code": 59252
-  },
-  {
-    "key": "jan-suwi",
-    "code": 59251
-  },
-  {
-    "key": "jan-suli",
-    "code": 59250
-  },
-  {
-    "key": "poki-kon",
-    "code": 59653
   },
   {
     "key": "ijo-lili",
@@ -532,8 +592,12 @@ module.exports = [
     "code": 59154
   },
   {
-    "key": "poki-len",
-    "code": 59664
+    "key": "ijo-kute",
+    "code": 61747
+  },
+  {
+    "key": "ijo-suwi",
+    "code": 61955
   },
   {
     "key": "ilo-lape",
@@ -544,8 +608,8 @@ module.exports = [
     "code": 59169
   },
   {
-    "key": "len-jelo",
-    "code": 59442
+    "key": "ijo-kule",
+    "code": 61745
   },
   {
     "key": "ilo-open",
@@ -560,20 +624,36 @@ module.exports = [
     "code": 59173
   },
   {
-    "key": "sona-ike",
-    "code": 59673
+    "key": "ijo-supa",
+    "code": 61954
   },
   {
     "key": "ilo-moli",
     "code": 59175
   },
   {
-    "key": "selo-len",
-    "code": 59716
+    "key": "ijo-kili",
+    "code": 61735
   },
   {
-    "key": "jan-sona",
-    "code": 59249
+    "key": "poki-len",
+    "code": 59664
+  },
+  {
+    "key": "ijo-kasi",
+    "code": 61732
+  },
+  {
+    "key": "ijo-kama",
+    "code": 61731
+  },
+  {
+    "key": "ijo-suno",
+    "code": 61953
+  },
+  {
+    "key": "ijo-kala",
+    "code": 61729
   },
   {
     "key": "jan-kala",
@@ -584,12 +664,12 @@ module.exports = [
     "code": 59221
   },
   {
-    "key": "toki-ike",
-    "code": 59744
+    "key": "ijo-jelo",
+    "code": 61721
   },
   {
-    "key": "ike-lili",
-    "code": 61537
+    "key": "ijo-jaki",
+    "code": 61719
   },
   {
     "key": "jan-lawa",
@@ -612,8 +692,8 @@ module.exports = [
     "code": 59234
   },
   {
-    "key": "pona-ala",
-    "code": 61540
+    "key": "ijo-insa",
+    "code": 61718
   },
   {
     "key": "jan-pali",
@@ -640,40 +720,304 @@ module.exports = [
     "code": 59241
   },
   {
-    "key": "sitelen",
-    "code": 58976
+    "key": "ijo-esun",
+    "code": 61714
   },
   {
-    "key": "jan-ali",
-    "code": 59218
+    "key": "jan-sona",
+    "code": 59249
   },
   {
-    "key": "jan-ale",
-    "code": 59218
+    "key": "jan-suli",
+    "code": 59250
   },
   {
-    "key": "ma-tomo",
-    "code": 61474
+    "key": "jan-suwi",
+    "code": 59251
   },
   {
-    "key": "kepeken",
-    "code": 58905
+    "key": "jan-toki",
+    "code": 59252
   },
   {
-    "key": "ijo-ike",
-    "code": 59152
+    "key": "jan-unpa",
+    "code": 59253
   },
   {
-    "key": "sona-ma",
-    "code": 59680
+    "key": "ijo-awen",
+    "code": 61705
   },
   {
-    "key": "ko-walo",
-    "code": 59429
+    "key": "jan-wawa",
+    "code": 59255
   },
   {
-    "key": "ijo-uta",
-    "code": 59155
+    "key": "jan-ante",
+    "code": 59256
+  },
+  {
+    "key": "ijo-ante",
+    "code": 61703
+  },
+  {
+    "key": "ijo-anpa",
+    "code": 61702
+  },
+  {
+    "key": "ijo-suli",
+    "code": 61952
+  },
+  {
+    "key": "ijo-wile",
+    "code": 61984
+  },
+  {
+    "key": "ijo-sona",
+    "code": 61848
+  },
+  {
+    "key": "ijo-weka",
+    "code": 61977
+  },
+  {
+    "key": "pona-ala",
+    "code": 61540
+  },
+  {
+    "key": "ijo-wawa",
+    "code": 61976
+  },
+  {
+    "key": "ike-lili",
+    "code": 61537
+  },
+  {
+    "key": "ijo-sina",
+    "code": 61845
+  },
+  {
+    "key": "ijo-sike",
+    "code": 61843
+  },
+  {
+    "key": "ijo-waso",
+    "code": 61975
+  },
+  {
+    "key": "poki-kon",
+    "code": 59653
+  },
+  {
+    "key": "ijo-sewi",
+    "code": 61841
+  },
+  {
+    "key": "ijo-seme",
+    "code": 61840
+  },
+  {
+    "key": "ijo-selo",
+    "code": 61833
+  },
+  {
+    "key": "ijo-seli",
+    "code": 61832
+  },
+  {
+    "key": "kon-lete",
+    "code": 59440
+  },
+  {
+    "key": "len-jelo",
+    "code": 59442
+  },
+  {
+    "key": "len-laso",
+    "code": 59443
+  },
+  {
+    "key": "len-loje",
+    "code": 59444
+  },
+  {
+    "key": "ijo-sama",
+    "code": 61831
+  },
+  {
+    "key": "len-lawa",
+    "code": 59446
+  },
+  {
+    "key": "len-luka",
+    "code": 59447
+  },
+  {
+    "key": "len-noka",
+    "code": 59448
+  },
+  {
+    "key": "ijo-poki",
+    "code": 61828
+  },
+  {
+    "key": "ijo-poka",
+    "code": 61827
+  },
+  {
+    "key": "len-walo",
+    "code": 59457
+  },
+  {
+    "key": "ijo-pipi",
+    "code": 61826
+  },
+  {
+    "key": "ijo-pini",
+    "code": 61825
+  },
+  {
+    "key": "ijo-walo",
+    "code": 61973
+  },
+  {
+    "key": "ijo-leko",
+    "code": 61987
+  },
+  {
+    "key": "ijo-pana",
+    "code": 61815
+  },
+  {
+    "key": "ijo-unpa",
+    "code": 61970
+  },
+  {
+    "key": "ijo-pali",
+    "code": 61812
+  },
+  {
+    "key": "tokipona",
+    "code": 59000
+  },
+  {
+    "key": "ijo-tomo",
+    "code": 61968
+  },
+  {
+    "key": "ijo-open",
+    "code": 61810
+  },
+  {
+    "key": "ijo-olin",
+    "code": 61808
+  },
+  {
+    "key": "ijo-noka",
+    "code": 61800
+  },
+  {
+    "key": "ijo-nimi",
+    "code": 61799
+  },
+  {
+    "key": "ijo-nena",
+    "code": 61797
+  },
+  {
+    "key": "ijo-toki",
+    "code": 61961
+  },
+  {
+    "key": "ijo-nasa",
+    "code": 61795
+  },
+  {
+    "key": "ijo-pake",
+    "code": 61991
+  },
+  {
+    "key": "toki-sin",
+    "code": 59747
+  },
+  {
+    "key": "ijo-mute",
+    "code": 61793
+  },
+  {
+    "key": "meli-ike",
+    "code": 59496
+  },
+  {
+    "key": "ijo-musi",
+    "code": 61792
+  },
+  {
+    "key": "toki-ike",
+    "code": 59744
+  },
+  {
+    "key": "toki-ala",
+    "code": 59736
+  },
+  {
+    "key": "ijo-telo",
+    "code": 61959
+  },
+  {
+    "key": "mije-ike",
+    "code": 59507
+  },
+  {
+    "key": "ijo-moli",
+    "code": 61782
+  },
+  {
+    "key": "ijo-moku",
+    "code": 61781
+  },
+  {
+    "key": "ijo-mije",
+    "code": 61780
+  },
+  {
+    "key": "ijo-meli",
+    "code": 61778
+  },
+  {
+    "key": "ijo-mani",
+    "code": 61777
+  },
+  {
+    "key": "ijo-mama",
+    "code": 61776
+  },
+  {
+    "key": "nena-kon",
+    "code": 59520
+  },
+  {
+    "key": "ijo-lupa",
+    "code": 61768
+  },
+  {
+    "key": "ijo-tawa",
+    "code": 61958
+  },
+  {
+    "key": "selo-len",
+    "code": 59715
+  },
+  {
+    "key": "ijo-luka",
+    "code": 61766
+  },
+  {
+    "key": "ijo-tan",
+    "code": 61956
+  },
+  {
+    "key": "ijo-ona",
+    "code": 61809
   },
   {
     "key": "ko-nasa",
@@ -692,72 +1036,152 @@ module.exports = [
     "code": 59417
   },
   {
-    "key": "ma-kasi",
-    "code": 61473
+    "key": "jan-sin",
+    "code": 59248
   },
   {
     "key": "jan-ike",
     "code": 59219
   },
   {
-    "key": "ike-ala",
-    "code": 61536
+    "key": "jan-ale",
+    "code": 59218
   },
   {
-    "key": "monsuta",
-    "code": 59027
-  },
-  {
-    "key": "len-jan",
-    "code": 59445
-  },
-  {
-    "key": "ilo-oko",
-    "code": 59176
+    "key": "jan-ali",
+    "code": 59218
   },
   {
     "key": "jan-ala",
     "code": 59216
   },
   {
-    "key": "jan-sin",
-    "code": 59248
+    "key": "ilo-oko",
+    "code": 59176
+  },
+  {
+    "key": "ijo-uta",
+    "code": 59155
+  },
+  {
+    "key": "ijo-ike",
+    "code": 59152
+  },
+  {
+    "key": "ijo-oko",
+    "code": 61990
+  },
+  {
+    "key": "ijo-kin",
+    "code": 61985
+  },
+  {
+    "key": "sona-ma",
+    "code": 59680
+  },
+  {
+    "key": "monsuta",
+    "code": 59027
+  },
+  {
+    "key": "ijo-wan",
+    "code": 61974
+  },
+  {
+    "key": "ko-walo",
+    "code": 59429
+  },
+  {
+    "key": "ijo-sin",
+    "code": 61844
+  },
+  {
+    "key": "kepeken",
+    "code": 58905
+  },
+  {
+    "key": "ijo-pan",
+    "code": 61814
+  },
+  {
+    "key": "len-jan",
+    "code": 59445
+  },
+  {
+    "key": "ijo-mun",
+    "code": 61785
+  },
+  {
+    "key": "ijo-lon",
+    "code": 61765
+  },
+  {
+    "key": "ijo-len",
+    "code": 61752
+  },
+  {
+    "key": "ijo-kon",
+    "code": 61744
+  },
+  {
+    "key": "len-sin",
+    "code": 59456
+  },
+  {
+    "key": "ijo-jan",
+    "code": 61720
+  },
+  {
+    "key": "ijo-ilo",
+    "code": 61717
+  },
+  {
+    "key": "ijo-anu",
+    "code": 61704
+  },
+  {
+    "key": "ijo-ale",
+    "code": 61701
+  },
+  {
+    "key": "ma-kasi",
+    "code": 61473
+  },
+  {
+    "key": "ma-tomo",
+    "code": 61474
+  },
+  {
+    "key": "ijo-ali",
+    "code": 61701
+  },
+  {
+    "key": "ijo-ala",
+    "code": 61699
+  },
+  {
+    "key": "sitelen",
+    "code": 58976
+  },
+  {
+    "key": "ike-ala",
+    "code": 61536
+  },
+  {
+    "key": "ijo-ko",
+    "code": 61737
   },
   {
     "key": "tu-wan",
     "code": 59793
   },
   {
-    "key": "soweli",
-    "code": 58978
-  },
-  {
-    "key": "namako",
-    "code": 59028
-  },
-  {
-    "key": "ma-ali",
-    "code": 61472
-  },
-  {
-    "key": "kipisi",
-    "code": 59025
-  },
-  {
-    "key": "kalama",
-    "code": 58901
-  },
-  {
     "key": "wan-tu",
     "code": 59798
   },
   {
-    "key": "ma-ale",
-    "code": 61472
-  },
-  {
-    "key": "kulupu",
-    "code": 58911
+    "key": "ijo-pu",
+    "code": 61830
   },
   {
     "key": "pakala",
@@ -768,12 +1192,60 @@ module.exports = [
     "code": 58954
   },
   {
+    "key": "ijo-tu",
+    "code": 61969
+  },
+  {
     "key": "pimeja",
     "code": 58959
   },
   {
     "key": "sijelo",
     "code": 58971
+  },
+  {
+    "key": "ijo-ni",
+    "code": 61798
+  },
+  {
+    "key": "kalama",
+    "code": 58901
+  },
+  {
+    "key": "ma-ali",
+    "code": 61472
+  },
+  {
+    "key": "ma-ale",
+    "code": 61472
+  },
+  {
+    "key": "ijo-mu",
+    "code": 61784
+  },
+  {
+    "key": "ijo-mi",
+    "code": 61779
+  },
+  {
+    "key": "ijo-ma",
+    "code": 61769
+  },
+  {
+    "key": "kulupu",
+    "code": 58911
+  },
+  {
+    "key": "namako",
+    "code": 59028
+  },
+  {
+    "key": "kipisi",
+    "code": 59025
+  },
+  {
+    "key": "soweli",
+    "code": 58978
   },
   {
     "key": "sinpin",
@@ -784,152 +1256,64 @@ module.exports = [
     "code": 58883
   },
   {
-    "key": "nanpa",
-    "code": 58941
-  },
-  {
-    "key": "nasin",
-    "code": 58943
-  },
-  {
-    "key": "tu-tu",
-    "code": 59792
-  },
-  {
-    "key": "akesi",
-    "code": 58881
-  },
-  {
-    "key": "kiwen",
-    "code": 58907
-  },
-  {
-    "key": "pilin",
-    "code": 58958
+    "key": "utala",
+    "code": 58993
   },
   {
     "key": "linja",
     "code": 58921
   },
   {
-    "key": "lukin",
-    "code": 58926
-  },
-  {
-    "key": "utala",
-    "code": 58993
-  },
-  {
     "key": "monsi",
     "code": 58936
+  },
+  {
+    "key": "nanpa",
+    "code": 58941
   },
   {
     "key": "seme?",
     "code": 58969
   },
   {
+    "key": "nasin",
+    "code": 58943
+  },
+  {
+    "key": "lukin",
+    "code": 58926
+  },
+  {
+    "key": "akesi",
+    "code": 58881
+  },
+  {
+    "key": "pilin",
+    "code": 58958
+  },
+  {
+    "key": "kiwen",
+    "code": 58907
+  },
+  {
     "key": "tenpo",
     "code": 58987
   },
   {
-    "key": "mani",
-    "code": 58930
-  },
-  {
-    "key": "toki",
-    "code": 58988
-  },
-  {
-    "key": "tawa",
-    "code": 58985
-  },
-  {
-    "key": "taso",
-    "code": 58984
-  },
-  {
-    "key": "tomo",
-    "code": 58989
-  },
-  {
-    "key": "anpa",
-    "code": 58885
-  },
-  {
-    "key": "suwi",
-    "code": 58982
-  },
-  {
-    "key": "supa",
-    "code": 58981
-  },
-  {
-    "key": "suno",
-    "code": 58980
-  },
-  {
-    "key": "suli",
-    "code": 58979
-  },
-  {
-    "key": "sona",
-    "code": 58977
-  },
-  {
-    "key": "sina",
-    "code": 58974
-  },
-  {
-    "key": "sike",
-    "code": 58972
-  },
-  {
-    "key": "sewi",
-    "code": 58970
-  },
-  {
-    "key": "ante",
-    "code": 58886
-  },
-  {
-    "key": "seme",
-    "code": 58969
-  },
-  {
-    "key": "selo",
-    "code": 58968
-  },
-  {
-    "key": "seli",
-    "code": 58967
-  },
-  {
-    "key": "sama",
-    "code": 58966
-  },
-  {
-    "key": "awen",
-    "code": 58888
-  },
-  {
-    "key": "unpa",
-    "code": 58991
-  },
-  {
-    "key": "esun",
-    "code": 58891
+    "key": "tu-tu",
+    "code": 59792
   },
   {
     "key": "leko",
     "code": 59026
   },
   {
-    "key": "insa",
-    "code": 58895
+    "key": "sama",
+    "code": 58966
   },
   {
-    "key": "jaki",
-    "code": 58896
+    "key": "anpa",
+    "code": 58885
   },
   {
     "key": "pona",
@@ -940,8 +1324,20 @@ module.exports = [
     "code": 58963
   },
   {
+    "key": "selo",
+    "code": 58968
+  },
+  {
     "key": "poka",
     "code": 58962
+  },
+  {
+    "key": "seme",
+    "code": 58969
+  },
+  {
+    "key": "sewi",
+    "code": 58970
   },
   {
     "key": "pipi",
@@ -952,6 +1348,10 @@ module.exports = [
     "code": 58960
   },
   {
+    "key": "sike",
+    "code": 58972
+  },
+  {
     "key": "pana",
     "code": 58956
   },
@@ -960,24 +1360,28 @@ module.exports = [
     "code": 58953
   },
   {
-    "key": "walo",
-    "code": 58994
+    "key": "sina",
+    "code": 58974
   },
   {
-    "key": "waso",
-    "code": 58996
+    "key": "sona",
+    "code": 58977
   },
   {
-    "key": "wawa",
-    "code": 58997
+    "key": "suli",
+    "code": 58979
   },
   {
-    "key": "weka",
-    "code": 58998
+    "key": "suno",
+    "code": 58980
   },
   {
-    "key": "jelo",
-    "code": 58898
+    "key": "supa",
+    "code": 58981
+  },
+  {
+    "key": "suwi",
+    "code": 58982
   },
   {
     "key": "open",
@@ -988,20 +1392,20 @@ module.exports = [
     "code": 58949
   },
   {
-    "key": "kin!",
-    "code": 59024
+    "key": "ante",
+    "code": 58886
   },
   {
-    "key": "kala",
-    "code": 58900
+    "key": "awen",
+    "code": 58888
   },
   {
-    "key": "kama",
-    "code": 58902
+    "key": "taso",
+    "code": 58984
   },
   {
-    "key": "kasi",
-    "code": 58903
+    "key": "tawa",
+    "code": 58985
   },
   {
     "key": "noka",
@@ -1012,40 +1416,32 @@ module.exports = [
     "code": 58946
   },
   {
-    "key": "pake",
-    "code": 59030
+    "key": "nena",
+    "code": 58944
   },
   {
     "key": "nasa",
     "code": 58942
   },
   {
-    "key": "wile",
-    "code": 58999
+    "key": "telo",
+    "code": 58986
   },
   {
-    "key": "kili",
-    "code": 58906
+    "key": "toki",
+    "code": 58988
   },
   {
-    "key": "kule",
-    "code": 58910
-  },
-  {
-    "key": "kute",
-    "code": 58912
-  },
-  {
-    "key": "lape",
-    "code": 58914
-  },
-  {
-    "key": "laso",
-    "code": 58915
+    "key": "tomo",
+    "code": 58989
   },
   {
     "key": "mute",
     "code": 58940
+  },
+  {
+    "key": "pake",
+    "code": 59030
   },
   {
     "key": "musi",
@@ -1060,6 +1456,10 @@ module.exports = [
     "code": 58934
   },
   {
+    "key": "unpa",
+    "code": 58991
+  },
+  {
     "key": "mije",
     "code": 58933
   },
@@ -1068,140 +1468,208 @@ module.exports = [
     "code": 58931
   },
   {
-    "key": "telo",
-    "code": 58986
+    "key": "mani",
+    "code": 58930
   },
   {
     "key": "mama",
     "code": 58929
   },
   {
-    "key": "lawa",
-    "code": 58916
+    "key": "walo",
+    "code": 58994
   },
   {
-    "key": "lete",
-    "code": 58918
+    "key": "waso",
+    "code": 58996
   },
   {
-    "key": "lili",
-    "code": 58920
+    "key": "kin!",
+    "code": 59024
   },
   {
-    "key": "lipu",
-    "code": 58922
+    "key": "esun",
+    "code": 58891
   },
   {
-    "key": "loje",
-    "code": 58923
+    "key": "seli",
+    "code": 58967
   },
   {
     "key": "lupa",
     "code": 58927
   },
   {
+    "key": "wawa",
+    "code": 58997
+  },
+  {
     "key": "luka",
     "code": 58925
   },
   {
-    "key": "nena",
-    "code": 58944
+    "key": "loje",
+    "code": 58923
   },
   {
-    "key": "len",
-    "code": 58917
+    "key": "lipu",
+    "code": 58922
   },
   {
-    "key": "sin",
-    "code": 58973
+    "key": "weka",
+    "code": 58998
   },
   {
-    "key": "tan",
-    "code": 58983
+    "key": "lili",
+    "code": 58920
   },
   {
-    "key": "ala",
-    "code": 58882
+    "key": "lete",
+    "code": 58918
   },
   {
-    "key": "mun",
-    "code": 58938
+    "key": "lawa",
+    "code": 58916
   },
   {
-    "key": "ali",
-    "code": 58884
+    "key": "laso",
+    "code": 58915
   },
   {
-    "key": "ale",
-    "code": 58884
+    "key": "wile",
+    "code": 58999
   },
   {
-    "key": "anu",
-    "code": 58887
+    "key": "lape",
+    "code": 58914
   },
   {
-    "key": "uta",
-    "code": 58992
+    "key": "insa",
+    "code": 58895
   },
   {
-    "key": "kon",
-    "code": 58909
+    "key": "kute",
+    "code": 58912
   },
   {
-    "key": "oko",
-    "code": 59029
+    "key": "kule",
+    "code": 58910
   },
   {
-    "key": "ijo",
-    "code": 58892
+    "key": "kili",
+    "code": 58906
   },
   {
-    "key": "wan",
-    "code": 58995
+    "key": "kasi",
+    "code": 58903
   },
   {
-    "key": "ken",
-    "code": 58904
+    "key": "kama",
+    "code": 58902
   },
   {
-    "key": "ike",
-    "code": 58893
+    "key": "kala",
+    "code": 58900
   },
   {
-    "key": "ilo",
-    "code": 58894
+    "key": "jaki",
+    "code": 58896
+  },
+  {
+    "key": "jelo",
+    "code": 58898
   },
   {
     "key": "pan",
     "code": 58955
   },
   {
+    "key": "lon",
+    "code": 58924
+  },
+  {
     "key": "ona",
     "code": 58950
   },
   {
-    "key": "lon",
-    "code": 58924
+    "key": "wan",
+    "code": 58995
+  },
+  {
+    "key": "ali",
+    "code": 58884
   },
   {
     "key": "kin",
     "code": 59024
   },
   {
+    "key": "kon",
+    "code": 58909
+  },
+  {
+    "key": "ale",
+    "code": 58884
+  },
+  {
+    "key": "tan",
+    "code": 58983
+  },
+  {
+    "key": "ijo",
+    "code": 58892
+  },
+  {
+    "key": "anu",
+    "code": 58887
+  },
+  {
+    "key": "ike",
+    "code": 58893
+  },
+  {
+    "key": "ken",
+    "code": 58904
+  },
+  {
+    "key": "mun",
+    "code": 58938
+  },
+  {
+    "key": "uta",
+    "code": 58992
+  },
+  {
+    "key": "sin",
+    "code": 58973
+  },
+  {
+    "key": "ilo",
+    "code": 58894
+  },
+  {
+    "key": "oko",
+    "code": 59029
+  },
+  {
+    "key": "ala",
+    "code": 58882
+  },
+  {
     "key": "jan",
     "code": 58897
   },
   {
-    "key": "? ",
-    "code": 59013
-  },
-  {
-    "key": "o!",
-    "code": 58948
+    "key": "len",
+    "code": 58917
   },
   {
     "key": "jo",
     "code": 58899
+  },
+  {
+    "key": "! ",
+    "code": 59011
   },
   {
     "key": ": ",
@@ -1212,40 +1680,28 @@ module.exports = [
     "code": 59009
   },
   {
-    "key": "o ",
-    "code": 58948
+    "key": ", ",
+    "code": 59008
   },
   {
-    "key": "oo",
-    "code": 58948
+    "key": "  ",
+    "code": 59001
   },
   {
-    "key": "ni",
-    "code": 58945
+    "key": "ko",
+    "code": 58908
   },
   {
-    "key": "mu",
-    "code": 58937
-  },
-  {
-    "key": "pi",
-    "code": 58957
-  },
-  {
-    "key": "pu",
-    "code": 58965
-  },
-  {
-    "key": "mi",
-    "code": 58932
+    "key": "zz",
+    "code": 59001
   },
   {
     "key": "e!",
     "code": 58889
   },
   {
-    "key": "! ",
-    "code": 59011
+    "key": "e ",
+    "code": 58889
   },
   {
     "key": "ee",
@@ -1256,8 +1712,12 @@ module.exports = [
     "code": 58890
   },
   {
-    "key": "ko",
-    "code": 58908
+    "key": "la",
+    "code": 58913
+  },
+  {
+    "key": "? ",
+    "code": 59013
   },
   {
     "key": "a!",
@@ -1272,35 +1732,47 @@ module.exports = [
     "code": 58880
   },
   {
-    "key": ", ",
-    "code": 59008
-  },
-  {
-    "key": "  ",
-    "code": 59001
+    "key": "tu",
+    "code": 58990
   },
   {
     "key": "ma",
     "code": 58928
   },
   {
-    "key": "zz",
-    "code": 59001
+    "key": "mi",
+    "code": 58932
   },
   {
-    "key": "tu",
-    "code": 58990
+    "key": "mu",
+    "code": 58937
+  },
+  {
+    "key": "ni",
+    "code": 58945
+  },
+  {
+    "key": "oo",
+    "code": 58948
+  },
+  {
+    "key": "o ",
+    "code": 58948
+  },
+  {
+    "key": "o!",
+    "code": 58948
+  },
+  {
+    "key": "pi",
+    "code": 58957
+  },
+  {
+    "key": "pu",
+    "code": 58965
   },
   {
     "key": "li",
     "code": 58919
-  },
-  {
-    "key": "la",
-    "code": 58913
-  },
-  {
-    "key": "e ",
-    "code": 58889
   }
 ];

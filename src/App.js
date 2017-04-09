@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import './App.css';
+import './App.less';
 import Index from './containers/Index';
+
 
 class App extends Component {
     render() {
