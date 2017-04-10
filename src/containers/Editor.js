@@ -20,13 +20,14 @@ class Editor extends Component {
         return (
             <div>
                 <Navbar />
-                <div className="container">
+                <div className="container-responsive">
 
                     <Col xs={12} sm={6} className="pull-right">
                         <ControlLabel>o lukin:</ControlLabel>
                         <Well bsSize="small" className="font-linja-pona font-size-big">{stringToLP(editorInput)}</Well>
                         <FormGroup>
                             <Button bsStyle="primary"><Glyphicon glyph="align-left" /></Button>
+                            {' '}
                             <Button bsStyle="primary"><Glyphicon glyph="align-center" /></Button>
                             <Button bsStyle="primary" className="pull-right">kama jo e sitelen</Button>
                         </FormGroup>

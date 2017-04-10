@@ -2,3 +2,8 @@
     font-family: LinjaPona3;
     src: url(fonts/linja-pona-3.otf);
 }
+
+@font-face {
+    font-family: GoodDog;
+    src: url(fonts/GoodDog.otf);
+}

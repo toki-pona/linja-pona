@@ -10,8 +10,8 @@ class Navbar extends Component {
         return (
             <BSNavbar>
                 <meta name="theme-color" content="#23c" />
-                <BSNavbar.Header>
-                    <BSNavbar.Brand>ilo pi sitelen pona</BSNavbar.Brand>
+                <BSNavbar.Header className="logo-wrapper">
+                    <BSNavbar.Brand className="logo"></BSNavbar.Brand>
                 </BSNavbar.Header>
             </BSNavbar>
         );
