@@ -36,6 +36,21 @@ const IGNORED_CHARS = {
     _65535: true
 };
 
+const ADDITIONS = [
+    {
+        key: 'a',
+        code: 58880
+    },
+    {
+        key: 'e',
+        code: 58889
+    },
+    {
+        key: 'o',
+        code: 58948
+    }
+];
+
 const parseLine = line => {
     const matches = line.match(LINE_RE);
     if (!matches) {
@@ -66,7 +81,11 @@ const decodeChar = char => {
 const decodeCode = code => parseInt(code, 16);
 
 const mapLines = txt => {
-    return sort(txt.split('\n').map(line => parseLine(line.trim())).filter(line => line), compareByKeyLength);
+    return sort(txt.split('\n')
+        .map(line => parseLine(line.trim()))
+        .filter(line => line), compareByKeyLength)
+        .concat(ADDITIONS)
+        ;
 };
 
 const compareByKeyLength = (dictionaryItemL, dictionaryItemR) => {

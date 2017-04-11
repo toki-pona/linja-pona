@@ -1774,5 +1774,17 @@ module.exports = [
   {
     "key": "li",
     "code": 58919
+  },
+  {
+    "key": "a",
+    "code": 58880
+  },
+  {
+    "key": "e",
+    "code": 58889
+  },
+  {
+    "key": "o",
+    "code": 58948
   }
 ];

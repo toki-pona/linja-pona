@@ -14,3 +14,8 @@ it('parses concatenated native words like foreign words', () => {
     const chars = stringToLP('ijopona');
     expect(chars).toEqual('ijopona');
 });
+
+it('parses "a", "e" and "o" without hacks', () => {
+    const chars = stringToLP('a e o');
+    expect(chars).toEqual('\ue600 \ue609 \ue644');
+});
