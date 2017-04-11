@@ -1,3 +1,4 @@
+import _ from 'lodash';
 import dict from '../linja-pona/ligatures';
 
 const matchWord = text => {
@@ -29,4 +30,35 @@ const stringToLP = text => {
     }
 };
 
-export {stringToLP};
+const SPECIAL_KEYS = new Set([
+    'aa',
+    'a ',
+    'a!',
+    'oo',
+    'o ',
+    'o!',
+    'ee',
+    'e ',
+    'e!',
+    '  ',
+    ', ',
+    '. ',
+    ': ',
+    '! ',
+    '? ',
+    'seme?',
+    'kin!',
+    'zz',
+]);
+
+const isSpecial = ({key}) => SPECIAL_KEYS.has(key);
+
+let wlCache;
+const getWordsList = () => {
+    if(!wlCache) {
+        wlCache = _(dict).sortBy('key').reject(isSpecial).value();
+    }
+    return wlCache;
+}
+
+export {stringToLP, getWordsList};

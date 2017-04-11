@@ -4,7 +4,7 @@ import { Router, Route, browserHistory } from 'react-router';
 import { syncHistoryWithStore } from 'react-router-redux';
 import { Provider } from 'react-redux';
 import Editor from './Editor';
-import How from './How';
+import WordList from './WordList';
 
 const history = syncHistoryWithStore(browserHistory, store);
 
@@ -14,7 +14,7 @@ class Index extends Component {
             <Provider store={store}>
                 <Router history={history}>
                     <Route path="/" component={Editor} />
-                    <Route path="/how" component={How} />
+                    <Route path="/lipu-nimi" component={WordList} />
                 </Router>
             </Provider>
         );
